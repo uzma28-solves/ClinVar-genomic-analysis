@@ -69,7 +69,7 @@ By analyzing positional distributions and variant densities, we can infer patter
 ---
 
 ## Author
-**[Uzma Alia]** 
-Self-directed learner
+**Uzma Alia** 
+-Self-directed learner
 
 
